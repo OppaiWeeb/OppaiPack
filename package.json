@@ -1,0 +1,29 @@
+{
+    "name": "OppaiPack",
+    "displayName": "OppaiExtensionPack",
+    "description": "A collection of pack used by the OppaiWeeb group",
+    "version": "0.0.1",
+    "repository": "https://github.com/OppaiWeeb/OppaiPack",
+    "publisher": "OppaiWeeb",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "pkief.material-icon-theme",
+        "ajshortt.tokyo-hack",
+        "ms-python.python",
+        "keyring.Lua", 
+        "RoyAction.color-manager", 
+        "naumovs.color-highlight",  
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "platformio.platformio-ide",
+        "shyykoserhiy.vscode-spotify",
+        "bierner.markdown-mermaid",
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-emoji",
+        "byi8220.indented-block-highlighting"
+    ]
+}
