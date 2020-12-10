@@ -13,7 +13,7 @@
     ],
     "extensionPack": [ 
         "pkief.material-icon-theme",
-        "ajshortt.tokyo-hack",
+        "pierrenel.theme-oceandeeper",
         "ms-python.python",
         "keyring.Lua", 
         "RoyAction.color-manager", 
