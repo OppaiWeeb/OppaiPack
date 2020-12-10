@@ -2,7 +2,7 @@
     "name": "OppaiPack",
     "displayName": "OppaiExtensionPack",
     "description": "A collection of pack used by the OppaiWeeb group",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "https://github.com/OppaiWeeb/OppaiPack",
     "publisher": "OppaiWeeb",
     "engines": {
