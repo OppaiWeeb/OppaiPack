@@ -1,9 +1,12 @@
 # Change Log
 
-All notable changes to the "OppaiPack" extension pack will be documented in this file.
+V0.0.1:
+	- add some extension
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+V0.0.2:
+	- add extension again
+	- add theme and icon theme
 
-## [Unreleased]
-
-- Initial release
+v0.0.3:
+	- remove theme
+	- add some extension 
