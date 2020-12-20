@@ -2,11 +2,11 @@
     "name": "OppaiPack",
     "displayName": "OppaiExtensionPack",
     "description": "A collection of pack used by the OppaiWeeb group",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "repository": "https://github.com/OppaiWeeb/OppaiPack",
     "publisher": "OppaiWeeb",
     "engines": {
-        "vscode": "^1.51.0"
+        "vscode": "^1.52.0"
     },
     "categories": [
         "Extension Packs"
@@ -24,8 +24,7 @@
         "yzhang.markdown-all-in-one",
         "bierner.markdown-emoji",
         "byi8220.indented-block-highlighting",
-        "visualstudioexptteam.vscodeintellicode",
-        "aaron-bond.better-comments",
-        "Prettier.Prettier"
+		"Prettier.Prettier",
+		"radiolevity.neofloss"
     ]
 }
