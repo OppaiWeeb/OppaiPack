@@ -17,4 +17,8 @@ all member of OppaiWeeb use a base of it and add favorite theme, or other extent
 - [markdown mermaid] Add mermaid syntax to markdown and markdown preview
 - [markdown all in one] Usefull for all markdown stuff
 - [markdown emoji] Add emoji cohesion
+- [better comment] Commenting littlebit beautiful
+- [PDF] Read PDF directly from VScode
+- [marp vscode] Show a preview of a presentation create in markdown with marp syntax
+- [markdown PDF] a converter mardown to PDF
 - [indent block highlight] Show same indent block

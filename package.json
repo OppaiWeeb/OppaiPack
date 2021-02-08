@@ -1,8 +1,8 @@
 {
-    "name": "OppaiPack",
+"name": "OppaiPack",
     "displayName": "OppaiExtensionPack",
     "description": "A collection of pack used by the OppaiWeeb group",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "repository": "https://github.com/OppaiWeeb/OppaiPack",
     "publisher": "OppaiWeeb",
     "engines": {
@@ -14,7 +14,6 @@
     "extensionPack": [ 
         "pkief.material-icon-theme",
         "ms-python.python",
-        "keyring.Lua", 
         "RoyAction.color-manager", 
         "naumovs.color-highlight",  
         "CoenraadS.bracket-pair-colorizer-2", 
@@ -22,9 +21,13 @@
         "shyykoserhiy.vscode-spotify",
         "bierner.markdown-mermaid",
         "yzhang.markdown-all-in-one",
-        "bierner.markdown-emoji",
         "byi8220.indented-block-highlighting",
 		"Prettier.Prettier",
-		"radiolevity.neofloss"
+		"radiolevity.neoflossn",
+		"aaron-bond.better-comments",
+		"bierner.markdown-emoji",
+		"tomoki1207.pdf",
+		"marp-team.marp-vscode",
+		"yzane.markdown-pdf"
     ]
 }

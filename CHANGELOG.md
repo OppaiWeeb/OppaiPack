@@ -1,12 +1,18 @@
 # Change Log
-v0.0.4:
+V0.0.5:
+	- add workflow with markdown
+	- work with PDF
+	- look for importing settings changes
+	
+
+V0.0.4:
 	- rework on Changelog
 	- remove extension 
 	- add theme
 	- work on settings
 
 
-v0.0.3:
+V0.0.3:
 	- remove theme
 	- add some extension 
 
