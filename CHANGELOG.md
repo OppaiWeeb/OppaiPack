@@ -1,4 +1,13 @@
 # Change Log
+V0.0.7:
+	- add theme
+	- add markdown support (maybe delete later)
+	- maybe latest version...
+	
+V0.0.6:
+	- error with some extention
+	- search for theme
+
 V0.0.5:
 	- add workflow with markdown
 	- work with PDF

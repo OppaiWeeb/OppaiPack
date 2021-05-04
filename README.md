@@ -7,6 +7,7 @@ all member of OppaiWeeb use a base of it and add favorite theme, or other extent
 ## extension and use of:
 
 - [Material icon Theme] usefull for find in the panel what type of file and language we have to deal with
+- [Neofloss] theme for VScode
 - [Python] Python helper, compiler, launcher 
 - [Color manager] Select color from a chromagraph disk 
 - [color highlight] Show color use in CSS and other by highlighting with the color
@@ -17,7 +18,8 @@ all member of OppaiWeeb use a base of it and add favorite theme, or other extent
 - [markdown all in one] Usefull for all markdown stuff
 - [markdown emoji] Add emoji cohesion
 - [better comment] Commenting littlebit beautiful
-- [PDF] Read PDF directly from VScode
 - [marp vscode] Show a preview of a presentation create in markdown with marp syntax
 - [markdown PDF] a converter mardown to PDF
 - [indent block highlight] Show same indent block
+- [better comment] Show comment as they need to be showed
+- [indent rainbow] Show with different colors for indentation level
