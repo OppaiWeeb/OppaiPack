@@ -1,25 +1,24 @@
 # README
-
 This is a collection pack of extension for vscode.
 
 all member of OppaiWeeb use a base of it and add favorite theme, or other extention.
 
 ## extension and use of:
 
-- [Material icon Theme] usefull for find in the panel what type of file and language we have to deal with
-- [Neofloss] theme for VScode
-- [Python] Python helper, compiler, launcher 
-- [Color manager] Select color from a chromagraph disk 
-- [color highlight] Show color use in CSS and other by highlighting with the color
-- [color pair bracket] Show paired bracket useful in cpp at the end of function with lot of unclosed bracket and all that stuff
-- [platformio] Just to compile cpp file for arduino and other developpement board
-- [vscode spotify] Listent to your playlist directly in VScode without quitting your favorite editor
-- [markdown mermaid] Add mermaid syntax to markdown and markdown preview
-- [markdown all in one] Usefull for all markdown stuff
-- [markdown emoji] Add emoji cohesion
-- [better comment] Commenting littlebit beautiful
-- [marp vscode] Show a preview of a presentation create in markdown with marp syntax
-- [markdown PDF] a converter mardown to PDF
-- [indent block highlight] Show same indent block
-- [better comment] Show comment as they need to be showed
-- [indent rainbow] Show with different colors for indentation level
+- [Material icon Theme] Material Design Icons for Visual Studio Code
+- [Neofloss] Dark theme with a sweet tooth
+- [Python] Linting, Debugging (multi-threaded, remote), Intellisense, Jupyter Notebooks, code formatting, refactoring
+- [Color manager] color picker and color palette 
+- [color highlight] Highlight web colors in your editor
+- [color pair bracket] A customizable extension for colorizing matching brackets
+- [platformio] Professional development environment for Embedded, IoT, Arduino
+- [vscode spotify] Use Spotify inside vscode.
+- [markdown mermaid] Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview
+- [ markdown mermaid syntax ] Markdown syntax support for the Mermaid charting language
+- [markdown all in one] All you need to write Markdown
+- [markdown emoji] Adds emoji syntax support to VS Code's built-in markdown preview
+- [marp vscode] Create slide deck written in Marp Markdown on VS Code
+- [markdown PDF] Convert Markdown to PDF
+- [indent block highlight] Highlights everything covered by the currently selected line's indentation level.
+- [better comment]  Improve your code commenting by annotating with alert, informational, TODOs, and more!
+- [indent rainbow] Makes indentation easier to read
